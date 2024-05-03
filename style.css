@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  font-size: larger;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #9a1f81;
+  color: white;
+}
+
+.btn {
+  background-color: #580b48;
+  margin: 10px;
+  width: 150px;
+  padding: 10px 25px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 10px;
+}
